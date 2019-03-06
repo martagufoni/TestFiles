@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "GeoCloudType": "MonitoredArea",
+        "GeoCloudDeviceId": "r1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.54288911819458,
+              41.90275615787398
+            ],
+            [
+              12.543704509735107,
+              41.8999772297506
+            ],
+            [
+              12.548661231994627,
+              41.901254912872794
+            ],
+            [
+              12.547502517700195,
+              41.90381020242184
+            ],
+            [
+              12.54288911819458,
+              41.90275615787398
+            ]
+          ]
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "GeoCloudType": "SystemPosition",
+        "GeoCloudSessionId": "sessioneID1",
+        "GeoCloudSessionName": "sessioneRoma",
+        "GeoCloudSessionDescription": "Radar e Monitoring area a Roma",
+        "GeoCloudSessionStatus": "RUNNING",
+        "GeoCloudSessionDateTime": "2019-03-06T20:42:31Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54788875579834,
+          41.89730998384814
+        ]
+      }
+    }
+  ]
+}
